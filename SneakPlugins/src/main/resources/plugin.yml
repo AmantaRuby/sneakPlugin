@@ -1,0 +1,6 @@
+name: Main
+version: ${project.version}
+main: me.amantaruby.sneakplugin.main.Main
+authors: [ AmantaRuby ]
+description: This is plugin sneak for My friends on discord!
+website: me.AmantaRuby
